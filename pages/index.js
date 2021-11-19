@@ -32,7 +32,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Raiyan Yahya
           </Heading>
-          <p>( Developer / Builder / Artist )</p>
+          <p>( Developer Tools / AWS / Python )</p>
         </Box>
         <Box
           flexShrink={0}
